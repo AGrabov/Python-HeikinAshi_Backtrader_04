@@ -1,0 +1,17 @@
+I want you to act like an expert in cryptocurrency trading, in stock trading, a financier, an economist, 
+and in addition, like a Python expert. I want you to create a highly profitable trading strategy for a 
+trading bot that will trade Binance perpetual futures on 15, 30 and 60 minute timeframes. 
+I want you to use all your knowledge to create the best strategy you can. You must use the most advanced tools 
+and indicators in the field of cryptocurrency trading. Your strategy should bring the maximum profit and, 
+if possible, the minimum loss. Use a combination of several technical analysis indicators and whatever 
+you see fit to achieve the best result.
+I also want you to optimize your code and strategy for Backtrader. Create a competent stop-loss system and 
+criteria for entering and exiting a position, also create a system of introspection of the system and 
+adjust it for maximum results in current market conditions. I want you to create the ability to trade 
+multiple tickers at the same time.
+Divide the code into several files (for example: data flow, strategy, backtest, configuration file and online 
+bot file. This is just an example of the structure, you can use any if you think it is more efficient and 
+convenient to use) so that the files are not too long and awkward, but at the same time they should be well 
+structured, intuitive and easy to read. Also add a logging system to deal with bugs and errors. Create 
+a separate configuration file that will store API and secret keys.
+First create a tree of files for the bot, and then each file in a separate block of code.
